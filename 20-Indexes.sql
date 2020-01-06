@@ -14,4 +14,3 @@ WHERE star2=starid;
 
 ALTER TABLE gateway 
 RENAME TO gateways;
-
